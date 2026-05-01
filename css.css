@@ -1,6 +1,8 @@
-body{
+.container{
   background: pink;
+  border: 1px solid transparent;
 }
+
 .title{
   max-width: 600px;
   text-align: center;
@@ -15,10 +17,9 @@ body{
  width: 500px;
 }
 .bgphoto{
-  padding-top: 15px;
+  padding-top: 14px;
   max-width: 600px;
 }
 .comimg{
-  background: pink;
   justify-content: space-around;
 }
